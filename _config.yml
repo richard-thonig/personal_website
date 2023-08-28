@@ -1,6 +1,6 @@
 # main text of home
 title: Richard Thonig
-bio: Renewable energy policy - CSP guru
+bio: Renewable energy policy
 
 # twitter summary info
 description: My personal website
@@ -17,8 +17,8 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+#resume-url: https://google.com/?q=my+resume
 
 url: https://richard-thonig.github.io/personal_website
 # your url: https://USERNAME.github.io
@@ -37,14 +37,15 @@ disqus:
 #facebook: myfacebook
 twitter: Rthonig
 #instagram: myinstagram
-linkedin: mylinkedin
+linkedin: richard-thonig
+orcid: 0000-0002-3736-257X
 github: richard-thonig
 email: thonigr@gmail.com
 
 authors:
   richardthonig:
     name: Richard Thonig
-    bio: A Man who travels the world eating noodles
+    bio: Policy analyst
     external-image: false
     picture: assets/images/profile.jpg
     twitter: rthonig
@@ -63,7 +64,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects:
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -82,7 +83,7 @@ related: false
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: false
