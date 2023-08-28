@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://richard-thonig.github.io/personal_website
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -31,29 +31,23 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: Rthonig
 #instagram: myinstagram
 linkedin: mylinkedin
-github: mygithub
+github: richard-thonig
 email: thonigr@gmail.com
 
 authors:
-  johndoe:
+  richardthonig:
     name: Richard Thonig
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: rthonig
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
